@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795204817722,
+      "tag": "0000_create_guess_who_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795204854349,
+      "tag": "0001_add_username_to_profiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795205515303,
+      "tag": "0002_restrict_profiles_select_policy",
+      "breakpoints": true
+    }
+  ]
+}
